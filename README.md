@@ -2,7 +2,7 @@ Group Member (solo): Arjun Gupta
 
 Title for my selection: Voice of a robot singing from the future
 
-Website URL: "to-come"
+Website URL: https://arjun2908.github.io/CSE-471-Project1/
 
 Format of score files
 1. Effects Component: effects.score
