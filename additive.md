@@ -6,7 +6,7 @@ filename: additive.md
 
 [Go Back](https://arjun2908.github.io/CSE-471-Project1/)
 
-# Additive Synthesis - Arjun Gupta #
+## Additive Synthesis - Arjun Gupta ##
 
 To create sound, the additive synthesizer combines sinusoids.
 
