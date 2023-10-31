@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="60" beatspermeasure="4">
+	<instrument instrument="SubtractiveInstrument">
+    <note measure="1" beat="1" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="up"/>
+    <note measure="1" beat="2" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="down"/>
+    <note measure="1" beat="3" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="up"/>
+    <note measure="1" beat="4" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+
+    <note measure="2" beat="1" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="up"/>
+    <note measure="2" beat="2" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="down"/>
+    <note measure="2" beat="3" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="up"/>
+    <note measure="2" beat="4" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+
+    <note measure="3" beat="1" duration="1.39" note="G6" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2"/>
+		<note measure="3" beat="2" duration="2" note="C6" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85"/>
+		<note measure="3" beat="3" duration="2" note="F5" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0"/>
+		<note measure="3" beat="4" duration="3" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+
+    <note measure="4" beat="1" duration="1.39" note="G6" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2"/>
+    <note measure="4" beat="2" duration="2" note="C6" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85"/>
+    <note measure="4" beat="3" duration="2" note="F5" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0"/>
+    <note measure="4" beat="4" duration="3" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+
+    <note measure="5" beat="1" duration="1.39" note="G6" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2"/>
+    <note measure="5" beat="2" duration="2" note="C6" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85"/>
+
+		<note measure="6" beat="4" duration="1" note="A#4" wavetype="Square" resonFreq="0.011" bandwidth="0.5" sweep="down"/>
+		<note measure="6" beat="4" duration="1" note="A#4" wavetype="Sawtooth" resonFreq="0.011" bandwidth="0.5" sweep="up"/>
+		<note measure="7" beat="1" duration="0.2" note="A#4" wavetype="Sawtooth" resonFreq="0.011" bandwidth="0.8"/>
+		<note measure="7" beat="1.3" duration="0.2" note="A#4" wavetype="Sawtooth" resonFreq="0.011" bandwidth="0.8"/>
+		<note measure="7" beat="1.6" duration="0.2" note="A#4" wavetype="Sawtooth" resonFreq="0.011" bandwidth="0.8"/>
+		<note measure="7" beat="1.90" duration="0.1" note="B4" wavetype="Sawtooth" resonFreq="0.011" bandwidth="0.8"/>
+		<note measure="7" beat="2" duration="1" note="B4" wavetype="Square" resonFreq="0.011" bandwidth="0.5" sweep="up"/>
+		<note measure="7" beat="2" duration="0.5" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5" sweep="down"/>
+
+		<note measure="7" beat="2.6" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5"/>
+		<note measure="7" beat="2.7" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5"/>
+		<note measure="7" beat="2.8" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5"/>
+		<note measure="7" beat="2.9" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5"/>
+		<note measure="7" beat="3" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5" sweep="up"/>
+		<note measure="7" beat="3.5" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5" sweep="down"/>
+		<note measure="7" beat="3.6" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5" sweep="down"/>
+		<note measure="7" beat="3.8" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5" sweep="down"/>
+		<note measure="7" beat="3.9" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5" sweep="down"/>
+		<note measure="7" beat="4" duration="0.1" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5" sweep="down"/>
+		<note measure="7" beat="4.1" duration="0.25" note="B4" wavetype="Triangle" resonFreq="0.011" bandwidth="0.5" sweep="up"/>
+
+    <note measure="9" beat="1" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="up"/>
+    <note measure="9" beat="2" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="down"/>
+    <note measure="9" beat="3" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="up"/>
+    <note measure="9" beat="4" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+    <note measure="10" beat="1" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="up"/>
+    <note measure="10" beat="2" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="down"/>
+    <note measure="10" beat="3" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="up"/>
+    <note measure="10" beat="4" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+
+    <note measure="11" beat="1" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="up"/>
+    <note measure="11" beat="2" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="down"/>
+    <note measure="11" beat="3" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="up"/>
+    <note measure="11" beat="4" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+
+    <note measure="12" beat="1" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="up"/>
+    <note measure="12" beat="2" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="down"/>
+    <note measure="12" beat="3" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="up"/>
+    <note measure="12" beat="4" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+
+    <note measure="13" beat="1" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="up"/>
+    <note measure="13" beat="2" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="down"/>
+    <note measure="13" beat="3" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="up"/>
+    <note measure="13" beat="4" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+
+    <note measure="14" beat="1" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+    <note measure="14" beat="2" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="down"/>
+    <note measure="14" beat="3" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="up"/>
+    <note measure="14" beat="4" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="down"/>
+
+    <note measure="15" beat="1" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+    <note measure="15" beat="2" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="down"/>
+    <note measure="15" beat="3" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="up"/>
+    <note measure="15" beat="4" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="down"/>
+
+    <note measure="16" beat="1" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+    <note measure="16" beat="2" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="down"/>
+    <note measure="16" beat="3" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="up"/>
+    <note measure="16" beat="4" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="down"/>
+
+    <note measure="17" beat="1" duration="1" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+    <note measure="17" beat="2" duration="1" note="F3" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="1.0" sweep="down"/>
+    <note measure="17" beat="3" duration="1" note="C3" wavetype="Sawtooth" resonFreq="0.025" bandwidth="0.85" sweep="up"/>
+    <note measure="17" beat="4" duration="1" note="A3" wavetype="Sawtooth" resonFreq="0.035" bandwidth="0.2" sweep="down"/>
+
+    <note measure="3" beat="1" duration="1" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="3" beat="2.5" duration="0.5" note="C3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="3" beat="4" duration="1" note="A2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="4" beat="1.5" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="4" beat="2.5" duration="0.5" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="4" beat="3.5" duration="0.5" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="4" beat="4" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="5" beat="1" duration="0.66" note="C3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="5" beat="1.66" duration="0.66" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="5" beat="2.33" duration="0.66" note="C4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="5" beat="3" duration="1" note="D4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="5" beat="4" duration="0.5" note="Bb3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="5" beat="4.5" duration="0.5" note="C4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="6" beat="1.5" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="6" beat="2.5" duration="0.5" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="6" beat="3" duration="0.5" note="G3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="6" beat="3.5" duration="0.5" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="7" beat="1" duration="1" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="7" beat="2.5" duration="0.5" note="C3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="7" beat="4" duration="1" note="A2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="8" beat="1.5" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="8" beat="2.5" duration="0.5" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="8" beat="3.5" duration="0.5" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="8" beat="4" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="9" beat="1" duration="0.66" note="C3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="9" beat="1.66" duration="0.66" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="9" beat="2.33" duration="0.66" note="C4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="9" beat="3" duration="1" note="D4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="9" beat="4" duration="0.5" note="Bb3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="9" beat="4.5" duration="0.5" note="C4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/> 
+		<note measure="10" beat="1.5" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="10" beat="2.5" duration="0.5" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="10" beat="3" duration="0.5" note="G3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="10" beat="3.5" duration="0.5" note="Bb2" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="11" beat="2" duration="0.5" note="C4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="11" beat="2.5" duration="0.5" note="B3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="11" beat="3" duration="0.5" note="Bb3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="11" beat="3.5" duration="0.5" note="Ab3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="11" beat="4.5" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="12" beat="1.5" duration="0.5" note="Db3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="12" beat="2" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="12" beat="2.5" duration="0.5" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="12" beat="3.5" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="12" beat="4" duration="0.5" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="12" beat="4.5" duration="0.5" note="G3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="13" beat="2" duration="0.5" note="C4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="13" beat="2.5" duration="0.5" note="B3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="13" beat="3" duration="0.5" note="Bb3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="13" beat="3.5" duration="0.5" note="Ab3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="13" beat="4.5" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="14" beat="1.5" duration="1" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="14" beat="1.5" duration="1" note="F4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="14" beat="2.5" duration="0.5" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="14" beat="2.5" duration="0.5" note="F4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="14" beat="3" duration="1" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="14" beat="3" duration="1" note="F4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="15" beat="2" duration="0.5" note="C4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="15" beat="2.5" duration="0.5" note="B3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="15" beat="3" duration="0.5" note="Bb3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="15" beat="3.5" duration="0.5" note="Ab3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="15" beat="4.5" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="16" beat="1.5" duration="0.5" note="Db3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="16" beat="2" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="16" beat="2.5" duration="0.5" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="16" beat="3.5" duration="0.5" note="A3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="16" beat="4" duration="0.5" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="16" beat="4.5" duration="0.5" note="G3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="17" beat="2" duration="1" note="Ab3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+		<note measure="17" beat="3.5" duration="0.5" note="G3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="up"/>
+		<note measure="18" beat="1" duration="1" note="F3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.75" sweep="down"/>
+
+	</instrument>
+
+	<instrument instrument="AdditiveInstrument">
+		<note measure="3" beat="3" duration="4" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="A3"/>
+		<note measure="3" beat="3.5" duration="4" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+		<note measure="3" beat="4" duration="2" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="4" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="A3"/>
+    <note measure="4" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="4" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="5" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="A3"/>
+    <note measure="5" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="5" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="8" beat="3" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="A3"/>
+    <note measure="8" beat="3.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="8" beat="4" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="9" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="A3"/>
+    <note measure="9" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="9" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="10" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="A3"/>
+    <note measure="10" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="10" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="11" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="A3"/>
+    <note measure="11" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="11" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="12" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="A3"/>
+    <note measure="12" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="12" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="13" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="A3"/>
+    <note measure="13" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="13" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="14" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="Bb2"/>
+    <note measure="14" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+
+    <note measure="15" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="Bb2"/>
+    <note measure="15" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="15" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="16" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0" note="Bb2"/>
+    <note measure="16" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="16" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+
+    <note measure="17" beat="1" duration="1" harmonics="1" vibrato="12" vibratoRate="12" crossfade="1" crossfadeOverlap="0"/>
+    <note measure="17" beat="1.5" duration="1" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="17" beat="2" duration="1" harmonics="1" vibrato="12" vibratoRate="4" note="Bb2" />
+	</instrument>
+
+	<!-- Effects -->
+
+	<instrument instrument="Chorus">
+		<note measure="1" delay=".0025" wet=".8" dry=".2" />
+		<note measure="2" beat="1" delay=".0025" wet=".8" dry=".2" />
+
+    <note measure="3" delay=".0025" wet=".8" dry=".2" />
+    <note measure="4" beat="1" delay=".0025" wet=".8" dry=".2" />
+
+    <note measure="5" delay=".0025" wet=".8" dry=".2" />
+    <note measure="6" beat="1" delay=".0025" wet=".8" dry=".2" />
+
+    <note measure="7" delay=".0025" wet=".8" dry=".2" />
+    <note measure="8" beat="1" delay=".0025" wet=".8" dry=".2" />
+
+    <note measure="9" delay=".0025" wet=".8" dry=".2" />
+    <note measure="10" beat="1" delay=".0025" wet=".8" dry=".2" />
+
+    <note measure="11" delay=".0025" wet=".8" dry=".2" />
+    <note measure="12" beat="1" delay=".0025" wet=".8" dry=".2" />
+
+    <note measure="13" delay=".0025" wet=".8" dry=".2" />
+    <note measure="14" beat="1" delay=".0025" wet=".8" dry=".2" />
+
+    <note measure="15" delay=".0025" wet=".8" dry=".2" />
+    <note measure="16" beat="1" delay=".0025" wet=".8" dry=".2" />
+	</instrument>
+
+	<instrument instrument="NoiseGate">
+      <note measure="1" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="2" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="3" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="4" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="5" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="6" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="7" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+	    <note measure="8" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+
+      <note measure="9" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="10" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="11" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="12" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="13" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="14" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="15" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+      <note measure="16" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+  	</instrument>
+  <instrument instrument="Flange">
+    <note measure="9" delay=".0025" wet=".25" dry=".75" />
+
+    <note measure="10" delay=".0025" wet=".25" dry=".75" />
+
+    <note measure="11" delay=".0025" wet=".25" dry=".75" />
+
+    <note measure="12" delay=".0025" wet=".25" dry=".75" />
+
+    <note measure="13" delay=".0025" wet=".25" dry=".75" />
+
+    <note measure="14" delay=".0025" wet=".25" dry=".75" />
+
+    <note measure="15" delay=".0025" wet=".25" dry=".75" />
+
+    <note measure="16" delay=".0025" wet=".25" dry=".75" />
+  </instrument>
+  <instrument instrument="Compress">
+    <note measure="10" beat=".5" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="10" beat="2.75" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="10" beat="3" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+
+    <note measure="11" beat=".5" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="11" beat="2.75" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="11" beat="3" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+
+    <note measure="12" beat=".5" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="12" beat="2.75" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="12" beat="3" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+
+    <note measure="13" beat=".5" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="13" beat="2.75" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="13" beat="3" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+
+    <note measure="14" beat=".5" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="14" beat="2.75" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="14" beat="3" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+
+    <note measure="15" beat=".5" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="15" beat="2.75" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="15" beat="3" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+
+    <note measure="16" beat=".5" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="16" beat="2.75" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="16" beat="3" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+
+    <note measure="17" beat=".5" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="17" beat="2.75" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+    <note measure="17" beat="3" delay=".0025" wet=".4" dry=".6" threshold=".005" />
+  </instrument>
+</score>

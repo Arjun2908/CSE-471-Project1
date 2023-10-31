@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="5">
+     <instrument instrument="SubtractiveInstrument">
+          <note measure="1" beat="1" duration="5" note="E4" wavetype="Sawtooth" resonFreq="0.01134" bandwidth="0.3" sweep="up"/>
+	
+          <note measure="2" beat="1" duration="5" note="G4" wavetype="Square" resonFreq="0.01134" bandwidth="0.25" sweep="down"/>
+	   
+          <note measure="3" beat="1" duration="5" note="D4" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.4" sweep="up-down"/>
+     
+		  <note measure="4" beat="1" duration="5" note="G#4" wavetype="Sawtooth" resonFreq="0.009" bandwidth="0.025" sweep="down-up"/>
+	
+          <note measure="5" beat="1" duration="5" note="Gb4" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+	   
+          <note measure="6" beat="1" duration="5" note="A3" wavetype="Triangle" resonFreq="0.01" bandwidth="0.6"/>
+	 </instrument>
+</score>
